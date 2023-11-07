@@ -1,4 +1,4 @@
-###Hi I'm Paulo Ricardo Silva de Aquino
+### Hi I'm Paulo Ricardo Silva de Aquino
 
 - 🔭 Today I'm work as analyst JR (FullStack Developer) At BT Créditos
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, TS, Angular, Python
