@@ -1,7 +1,7 @@
 ### Hi I'm Paulo Ricardo Silva de Aquino
 
-- 🔭 Today I'm work as analyst JR (FullStack Developer) At BT Créditos
-- 🌱 I’m currently learning these subjects WebScrapping, .NET, TS, Angular, Python
+- 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
+- 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
 - 📫 For contact paulo041299@gmail.com
 
