@@ -1,4 +1,4 @@
-### Hi I'm Paulo Ricardo Silva de Aquino
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE12E1&center=true&vCenter=true&multiline=true&width=435&lines=Hello%2C+My+name+is+Paulo+Aquino)](https://git.io/typing-svg)
 
 - 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
