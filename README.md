@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=5000&pause=6000&color=DE12E1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hello%2C+My+name+is+Paulo+Aquino)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=5000&pause=6000&color=DE12E1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=I'+a+software+developer+and+this+is+my+Github!)](https://git.io/typing-svg)
 
+
+##
+
+[![Paulo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulo-aquino-dev&custom_title=Paulo%20Aquino%20Contribuition%20Graph&hide_border=true&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
