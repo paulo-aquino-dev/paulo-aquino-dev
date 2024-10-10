@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=DE12E1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hello%2C+My+name+is+Paulo+Aquino)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=DE12E1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hello%2C+I'+a+software+development+and+this+is+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=DE12E1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=I'+a+software+developer+and+this+is+my+Github!)](https://git.io/typing-svg)
 
 - 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
