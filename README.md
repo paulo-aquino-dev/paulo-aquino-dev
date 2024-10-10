@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&size=35&duration=5000&pause=6000&color=B18BB1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hello%2C+My+name+is+Paulo+Aquino)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=5000&pause=6000&color=B18BB1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=I'+a+software+developer+and+this+is+my+Github!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Varela+Round&size=30&duration=5000&pause=6000&color=B18BB1&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=I'+a+software+developer+and+this+is+my+Github!)](https://git.io/typing-svg)
 
 ##
 
@@ -14,7 +13,6 @@
 - Back-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,azure,aws)](https://skillicons.dev)
-
 
 - Front-End
 
