@@ -18,7 +18,7 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)]
 
-- 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
+- 🔭 Today I'm work as Software Developer At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
 - 📫 For contact paulo041299@gmail.com
