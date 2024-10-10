@@ -6,6 +6,12 @@
 
 [![Paulo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paulo-aquino-dev&custom_title=Paulo%20Aquino%20Contribuition%20Graph&hide_border=true&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+- Versionamento de código
+  
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
 - 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
