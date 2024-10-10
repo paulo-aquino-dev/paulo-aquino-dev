@@ -11,7 +11,9 @@
   
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
+- Back-End
 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,php)](https://skillicons.dev)
 - 🔭 Today I'm work as analyst MID (BackEnd Developer) At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
 - 👯 I’m looking to collaborate on Any project could be bring me more expetise
@@ -40,7 +42,7 @@
 
 ## Contacts:
 
-<div>
+<div align="center">  
   <a href = "mailto:paulo041299@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-aquino" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
