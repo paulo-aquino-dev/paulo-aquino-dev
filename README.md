@@ -16,7 +16,7 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)]
+[![Minhas Habilidades](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)
 
 - 🔭 Today I'm work as Software Developer At Tecsomobi
 - 🌱 I’m currently learning these subjects WebScrapping, .NET, AWS, C#
